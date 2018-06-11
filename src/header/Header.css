@@ -1,0 +1,6 @@
+.Header {
+  margin-left: 600px; }
+  .Header h1, .Header label {
+    font-family: 'Arvo', serif;
+    color: white;
+    font-size: 20px; }

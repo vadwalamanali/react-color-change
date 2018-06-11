@@ -1,0 +1,8 @@
+select {
+  outline: none;
+  padding: 5px;
+  border-radius: 3px;
+  margin: 25px;
+  background-color: #fff;
+  font-size: 18px;
+  cursor: pointer; }
